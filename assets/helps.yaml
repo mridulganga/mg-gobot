@@ -1,0 +1,107 @@
+basic: |
+  **Generic Help**
+
+  you can get help for commands -
+  monopoly
+
+  `pls help <command>`
+
+monopoly: |
+  **Monopoly Help**
+
+  Commands - `balance,rich,send,beg,search,work,loot,gamble,loan`
+  `pls help <command>`
+balance: |
+  **balance help**
+
+  `pls balance`
+rich: |
+  **rich help**
+
+  `pls rich`
+send: |
+  **send help**
+
+  `pls send @username <amount>`
+  `pls send @username all`
+withdraw: |
+  **withdraw help**
+
+  `pls withdraw <amount>`
+  `pls withdraw all`
+deposit: |
+  **deposit help**
+
+  `pls deposit <amount>`
+  `pls deposit all`
+beg: |
+  **beg help**
+  
+  `pls beg`
+search: |
+  **search help**
+  
+  `pls search`
+work: |
+  **work help**
+  
+  `pls work list`
+  `pls work join <number>`
+  `pls work leave`
+  `pls work start`
+  `pls work status`
+steal: |
+  **steal help**
+  
+  `pls steal @username`
+gamble: |
+  **gamble help**
+  
+  `pls gamble <amount>`
+  `pls gamble all`
+loan: |
+  **loan help**
+  
+  `pls loan <amount>`
+  `pls loan view`
+  `pls loan pay`
+
+# shop
+# buy
+# sell
+# use
+# bankrob
+
+# cat
+# dog
+# fox
+# panda
+# redpanda
+# pika
+# axolotl
+
+# wink
+# meme
+# xkcd
+# wall|unsplash
+# avatar
+# lmgtfu
+# coin
+# dice
+# choose
+# yesno
+# belikebill
+# die|kill
+# quote
+# geek
+# avatar
+# joke|mock
+# asktrump
+# dadjoke
+# yomama
+# begLines
+# insults
+# donators
+# search
+# advice
+# compliment

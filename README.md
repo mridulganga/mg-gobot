@@ -1,4 +1,5 @@
 ## MG GOBOT
+[![ci](https://github.com/mridulganga/mg-gobot/actions/workflows/build.yaml/badge.svg)](https://github.com/mridulganga/mg-gobot/actions/workflows/build.yaml)
 
 This is a bot for discord
 
